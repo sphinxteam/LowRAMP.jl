@@ -15,11 +15,11 @@ This code requites Julia 0.4
 
 To install, just write
 
-`Pkg.clone("git://github.com/sphinxteam/LowRAMP.jl.git"`.
+`Pkg.clone("git://github.com/sphinxteam/LowRAMP.jl.git")`.
 
 The module can then be loaded with `using LowRAMP`. 
 
-A set of demo is also provided, just try include("test.jl")
+A set of demo is also provided, just try Pkg.test("LowRAMP");
 
 These equations are based on http://arxiv.org/abs/1503.00338 (ISIT 2015) and http://arxiv.org/abs/1507.03857
 They follow from earlier works: 
