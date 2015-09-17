@@ -1,7 +1,7 @@
 LowRAMP: Low rank Approximate Message Passing, a JULIA software for
 low rank matrix factorization based on belief propagation.
 
-[![Build Status](https://travis-ci.org/krzakala/LowRAMP.jl.svg?branch=master)](https://travis-ci.org/krzakala/LowRAMP)
+[![Build Status](https://travis-ci.org/krzakala/LowRAMP.jl.svg?branch=master)](https://travis-ci.org/krzakala/LowRAMP.jl)
 
 
 ==================================================
