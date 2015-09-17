@@ -13,9 +13,11 @@ You should have received a copy of the GNU General Public License along with thi
 ==================================================
 This code requites Julia 0.4
 
-Files included in this package : LowRamp.jl
+To install, just write
 
-USAGE : from julia   push!(LOAD_PATH, ".");using LowRAMP
+`Pkg.clone("git://github.com/sphinxteam/LowRAMP.jl.git"`.
+
+The module can then be loaded with `using LowRAMP`. 
 
 A set of demo is also provided, just try include("test.jl")
 
